@@ -19,3 +19,11 @@ Agradecimentos
    :maxdepth: 2
 
    2017/agradecimentos
+
+Organização
+------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   2017/organizacao
