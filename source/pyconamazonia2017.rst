@@ -24,7 +24,7 @@ Organização
 ------------------------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
 
    2017/organizacao
 
@@ -35,3 +35,11 @@ O que poderia melhorar
    :maxdepth: 2
 
    2017/melhorias
+
+Conclusões
+------------------------
+
+.. toctree::
+   :maxdepth: 2
+
+   2017/conclusoes
