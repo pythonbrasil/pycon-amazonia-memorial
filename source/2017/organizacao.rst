@@ -4,9 +4,6 @@ Organização
 Antes do Evento
 ---------------------------
 
-.. toctree::
-   :maxdepth: 2
-
 A organização do evento começa com a vontade de realizar algo. A pessoa que se 
 responsabiliza pela organização do evento tem que ser capaz de:
 
