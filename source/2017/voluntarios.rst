@@ -22,3 +22,16 @@ Voluntários da Pycon Amazônia
 - Jéssica Liang, staff
 - Robson Marques, staff
 - Julio Melanda, fotografia
+
+.. image:: ../_static/palestrante-julio-melanda.jpg
+
+Julio Melanda perto do quadro branco
+
+.. image:: ../_static/palestrantes-ramayana-robson-adriano-felipe.jpg
+
+Da esquerda para direita: Ramayana Menezes, Robson Marques, Adriano Praia, Felipe
+Carvalho
+
+.. image:: ../_static/palestrantes-danielle-nilo-ramayana.jpg
+
+Da esquerda para direita: Danielle Valente, Nilo Menezes, Ramayana Menezes
