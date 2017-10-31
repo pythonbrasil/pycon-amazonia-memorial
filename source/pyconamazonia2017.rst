@@ -43,3 +43,10 @@ Conclusões
    :maxdepth: 2
 
    2017/conclusoes
+
+Links externos
+------------------------
+
+`Fotos Oficiais <http://www.flickr.com/photos/jcemelanda/sets/72157685381999944>`_
+
+`Site <http://amazonia.python.org.br/>`_
