@@ -27,6 +27,14 @@ Organização
    :maxdepth: 3
 
    2017/organizacao
+   
+Programação
+------------------------
+
+.. toctree::
+   :maxdepth: 3
+
+   2017/programacao   
 
 O que poderia melhorar
 ------------------------
