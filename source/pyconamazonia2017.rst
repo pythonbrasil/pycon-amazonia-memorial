@@ -54,12 +54,14 @@ Links externos
 Keynotes
 ------------------------
 - `Fernando Massanori <http://amazonia.python.org.br/images/slides/Fernando%20Massanori%20-%20Seja%20Feliz%20Programando%20em%20Python.pdf>`_
+
 - `Nilo Menezes <hhttp://amazonia.python.org.br/images/slides/Nilo%20Menezes%20-%20Pythonizando.pptx>`_
 
 Palestras
 ------------------------
 
 12/08
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 - `Renzo Nuccitelli - Programando a Felicidade <http://amazonia.python.org.br/images/slides/Renzo%20Nuccitelli%20-%20Hackeando%20Sistemas.pdf>`_
 - `Nilo Menezes - Python Assíncrono <http://amazonia.python.org.br/images/slides/Nilo%20Menezes%20-%20Python%20Ass%C3%ADncrono.pdf>`_
@@ -73,8 +75,8 @@ Palestras
 - `Felipe Colen - Começando com o microframework web Python mais popular: Flask! <http://amazonia.python.org.br/images/slides/Felipe%20Colen%20-%20Come%C3%A7ando%20com%20o%20MicroFramework%20Flask.pdf>`_
 - `Julio Melanda - Trabalho remoto - é mesmo assim tão bom? <http://amazonia.python.org.br/images/slides/Julio%20Melanda%20-%20Trabalho%20Remoto.pdf>`_
 
-
 13/08
+^^^^^^^^^^^^^^^^^^^^^^^^
 
 - `Carla Amor Divino Moreira Delgado - Usando Python para a introdução à programação em cursos universitários <http://amazonia.python.org.br/images/slides/Carla%20Delgado%20-%20Usando%20Python%20para%20a%20introdu%C3%A7%C3%A3o%20%C3%A0%20programacao%20em%20cursos%20universitarios.pdf>`_
 - `Marcelo Costa - Implantação de Práticas Ágeis nas Corporações: Um caso real <http://amazonia.python.org.br/images/slides/Marcelo%20Costa%20-%20Implanta%C3%A7%C3%A3o%20de%20Pr%C3%A1ticas%20%C3%81geis%20nas%20Corpora%C3%A7%C3%B5es%20-%20Python%20-%20versao%20base.pdf>`_
