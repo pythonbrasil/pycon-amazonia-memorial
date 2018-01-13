@@ -9,3 +9,29 @@ proporcionar que também aproveitam a conferência.
 Além de doarem seu trabalho e tempo, os voluntários também nos emprestaram
 seus notebooks para realização das apresentações, carro para comprar várias coisas e
 mesmo seus adaptadores.
+
+Voluntários da Pycon Amazônia
+----------------------------------------------
+
+- Nilo Menezes, organizador
+- Danielle Valente, organizadora
+- Adriano Praia, staff
+- Felipe Carvalho, staff
+- Ramayna Menezes, staff
+- Carla Delgado, staff
+- Jéssica Liang, staff
+- Robson Marques, staff
+- Julio Melanda, fotografia
+
+.. image:: ../_static/palestrante-julio-melanda.jpg
+
+Julio Melanda perto do quadro branco
+
+.. image:: ../_static/palestrantes-ramayana-robson-adriano-felipe.jpg
+
+Da esquerda para direita: Ramayana Menezes, Robson Marques, Adriano Praia, Felipe
+Carvalho
+
+.. image:: ../_static/palestrantes-danielle-nilo-ramayana.jpg
+
+Da esquerda para direita: Danielle Valente, Nilo Menezes, Ramayana Menezes
